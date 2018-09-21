@@ -9,3 +9,5 @@ Requirements:<br>
     https://github.com/mozilla/geckodriver/releases<br>
     download and extract the file to /usr/bin/<br>
     please download it according to your system<br>
+4) to run enter this into your terminal<br>
+    python attendance.py <username> <password>
